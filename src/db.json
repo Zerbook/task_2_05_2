@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Телевизор",
+      "completed": false,
+      "id": "94cc"
+    },
+    {
+      "id": "54f9",
+      "title": "выаыавыа",
+      "completed": false
+    },
+    {
+      "id": "af5d",
+      "title": "Первая задача",
+      "completed": false
+    }
+  ]
+}
